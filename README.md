@@ -13,7 +13,7 @@ The objective is to identify fuel distribution patterns and generate insights th
 ## Dataset
 
 Source:
-Sumber/Source:  Pertamina – UPMS I Medan
+BPS North Sumatra Province (Data provided by Pertamina UPMS I Medan)
 
 Period:
 2022
